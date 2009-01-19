@@ -6,6 +6,8 @@ slow.
 
 So, I set out to make one that was as, well… succinct… as possible.
 
+![A early screenshot of Succinct.growlStyle in action](http://grabup.com/uploads/6453539b0116a915f7c397e3116c36ce.png?direct)
+
   [Growl]: <http://growl.info/> "Sexy-ass OS X notification centre"
 
 Caveats
